@@ -1,0 +1,10 @@
+README.md
+
+.git
+.gitignore
+
+docker-compose.yml
+
+log/
+tmp/
+public/uploads
