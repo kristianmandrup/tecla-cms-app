@@ -43,5 +43,5 @@ group :development, :test do
 end
 
 #change the git url to path if you are testing the local changes
-gem "tecla_cms", git: 'git@github.com:kristianmandrup/tecla-cms.git'
+gem "tecla_cms", git: 'https://github.com/kristianmandrup/tecla-cms.git'
 gem 'rails_admin', '~> 0.7.0'
