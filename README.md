@@ -1,7 +1,7 @@
 Tecla CMS app
 =============
 
-Things you may want to cover:
+[ ![Codeship Status for kristianmandrup/tecla-cms-app](https://codeship.com/projects/835d7a90-3152-0133-9f1f-0a744e9a501a/status?branch=master)](https://codeship.com/projects/99692)
 
 ### Ruby version
 
