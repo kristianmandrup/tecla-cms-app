@@ -32,6 +32,14 @@ After it's done, run `docker-compose ps` to make sure all containers are up and 
 
 At this point, feel free to change some code and refresh the browser to see the changes right away, without the need to reload the container yourself.
 
+### Docker tutorials
+
+A nice walk through of hwo to do a complete setup (Php)
+
+-	[Part I: Docker](http://piotrpasich.com/continuous-deployment-environment-with-docker-aws-eb-and-codeship/)
+-	[Part II: AWS Elastic Beanstalk](http://piotrpasich.com/automated-deployment-with-aws-elastic-beanstalk-eb-part-ii/)
+-	[Part III: Codeship](http://piotrpasich.com/putting-all-pieces-together-and-shipping-with-codeship-continuous-deployment-part-iii/)
+
 ### Docker deploy with private repos
 
 Note: Work In Progress (WIP)
