@@ -1,10 +1,8 @@
 Rails.application.routes.draw do
   
-  root :to => "admin#dashboard"
-
-  devise_for :users
+  root :to => "welcome#index"
+  mount Cms::Engine => '/cms', as: 'cms'
   mount RailsAdmin::Engine => '/admin', as: 'rails_admin'
-  mount TeclaCms::Engine => '/cms', as: 'cms'
   
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
